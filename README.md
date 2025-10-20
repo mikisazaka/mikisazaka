@@ -2,6 +2,10 @@
 <br>
 
 <div align="center">
+    <img height="190" width="150" alt="Sticker" align="center" src="./assets/mysticker.png">
+</div>
+
+<div align="center">
   <h2>Sobre mim 👩🏻‍💻</h2>
   <p>
     Sou estudante de Engenharia de Software e desenvolvedora em formação. Atuo principalmente na parte de Desenvolvimento Backend, 
