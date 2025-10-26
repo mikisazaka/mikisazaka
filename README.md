@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-    <img height="190" width="150" alt="Sticker" align="center" src="./assets/mysticker.png">
+    <img height="190" width="150" alt="Sticker" align="center" src="https://raw.githubusercontent.com/mikisazaka/mikisazaka/main/assets/mysticker.png">
 </div>
 
 <div align="center">
